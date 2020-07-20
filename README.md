@@ -27,4 +27,6 @@ add your database url to config.js file.
 
 ```npm run test ```to run the node server and server should start on PORT 3000 and will get a message that 'Server Runing on 300' then you are ready to go.
 
-example: [localhost:3000/demo/demoDetails/getDemoDetails/](localhost:3000/demo/demoDetails/getDemoDetails/)
+example Apis: [localhost:3000/demo/demoDetails/getDemoDetails/](http://localhost:3000/demo/demoDetails/getDemoDetails/)
+
+[GET APIS](http://localhost:3000/demo/demoDetails/getDemoDetails/).
