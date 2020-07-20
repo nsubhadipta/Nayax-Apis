@@ -1,16 +1,16 @@
-# Nayax-Apis
-create Apis using node js, express js and mysql
+# Nayax-Apis  :+1:
+*create Apis using node js, express js and mysql*
 
-CRUD Operation
+**CRUD Operation**
 
-NodeJS ||
+> NodeJS ||
 
-MYSQL ||
+> MYSQL ||
 
-EXPRESS JS ||
+> EXPRESS JS ||
 
 
-Dependencies:
+**Dependencies:**
 
     "body-parser": "^1.19.0",
     
@@ -21,10 +21,10 @@ Dependencies:
     "nodemon": "^2.0.3"
 
 
-run npm install command in the file location to install all the required dependencies
+```npm run install``` command in the file location to install all the required dependencies
 
 add your database url to config.js file.
 
-run npm test to run the node server and server should start on PORT 3000 and will get a message that 'Server Runing on 300' then you are ready to go.
+```npm run test ```to run the node server and server should start on PORT 3000 and will get a message that 'Server Runing on 300' then you are ready to go.
 
-example: localhost:3000/demo/demoDetails/getDemoDetails/
+example: [localhost:3000/demo/demoDetails/getDemoDetails/](localhost:3000/demo/demoDetails/getDemoDetails/)
